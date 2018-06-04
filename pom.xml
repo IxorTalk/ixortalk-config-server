@@ -84,7 +84,7 @@
     <scm>
         <connection>scm:git:git@github.com:ixortalkadmin/ixortalk-config-server.git</connection>
         <developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-config-server.git</developerConnection>
-        <url>https://github.com/ixortalkadmin/ixortalk-config-server/tree/master</url>
+        <url>https://github.com/ixortalk/ixortalk-config-server/tree/master</url>
         <tag>HEAD</tag>
     </scm>
 
